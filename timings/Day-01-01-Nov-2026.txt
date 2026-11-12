@@ -3,3 +3,4 @@
 an hour - learn ip address & it there types with DNS
 an hour - practice for english speaking
 2 hour - watch linux videos
+3 hour - watch video & do practice for git
