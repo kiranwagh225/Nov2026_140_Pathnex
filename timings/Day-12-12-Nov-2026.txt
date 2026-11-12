@@ -1,0 +1,6 @@
+3 hour - attend the morning lecture leanred the kuberenetes flow, namepsace, service, How to create the EKS cluster
+1 hour - practice the to set up EKS cluste on personal AWS Account
+1 hour - done the my git code push tasks
+2 hour - watched the k8s upgradation video
+half houe - for making introduction video & learning the english speaking course
+in evening the  attend the class, give overview of today morning session
